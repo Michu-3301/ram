@@ -72,21 +72,21 @@
 		</div>
 	
 		<div id="nav">
-		    <a href="https://michu-3301.github.io/komp0"> Strona Główna </a>   <br />
+		    <a href="https://michu-3301.github.io/komp0"> Strona Główna </a>   
 			<br></br>
 		Komponenty komputera: 
 				<br></br>
-			 <a href="https://michu-3301.github.io/proc2"> -Procesor </a> <br />
+			 <a href="https://michu-3301.github.io/proc2"> -Procesor </a> 
 			 <br></br>
-			<a href="https://michu-3301.github.io/P-G"> -Płyta Główna </a>   <br />
+			<a href="https://michu-3301.github.io/P-G"> -Płyta Główna </a>   
 			<br></br>
-			<a href="https://michu-3301.github.io/GPU"> -Karta Graficzna </a>   <br />
+			<a href="https://michu-3301.github.io/GPU"> -Karta Graficzna </a>  
 			<br></br>
-			<a href="Zasilacz.html"> -Zasilacz </a>   <br />
+			<a href="Zasilacz.html"> -Zasilacz </a>   
 			<br></br>
-			<a href="Chłodzenie.html"> -Chłodzenie </a>   <br />
+			<a href="Chłodzenie.html"> -Chłodzenie </a>   
 			<br></br>
-			<a href="Dysk.html"> -Dysk HDD/SSD </a> <br />
+			<a href="Dysk.html"> -Dysk HDD/SSD </a> 
 		</div>
 		
 		<div id="content">
